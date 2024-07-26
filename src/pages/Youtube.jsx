@@ -3,7 +3,10 @@ import Main from '../components/section/Main'
 
 const Youtube = () => {
   return (
-    <Main>Youtube</Main>
+    <Main title="Youtube" 
+          description="Youtube 페이지입니다.">
+          Youtube
+    </Main>
   )
 }
 

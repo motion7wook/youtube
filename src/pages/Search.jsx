@@ -3,7 +3,7 @@ import Main from '../components/section/Main'
 
 const Search = () => {
   return (
-    <Main>Search</Main>
+    <Main title="검색창" description="검생창입니다">Search</Main>
   )
 }
 

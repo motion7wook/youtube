@@ -22,9 +22,9 @@ export const headerMenus =[
     src:"/today"
 },
 {
-    title:"추천 개발자",
+    title:"추천 음악",
     icon:<MdDeveloperMode/>,
-    src:"/developer"
+    src:"/music"
 },
 {
     title:"GSAP",

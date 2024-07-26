@@ -6,7 +6,7 @@ const Footer = () => {
       <a href="https://github.com/motion7wook/youtube" 
          rel="noopenner noreferrer"
          target="_blank">
-        github
+        
       </a>
     </footer>
   )
